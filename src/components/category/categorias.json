@@ -1,0 +1,26 @@
+    [
+        {
+            "id": 1,
+            "titulo": "Cabañas",
+            "descripcion": "345.765 Cabañas",
+            "urlImagen": "https://images.unsplash.com/photo-1611821261180-8e6867e77288?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+        },
+        {
+            "id": 2,
+            "titulo": "Departamentos",
+            "descripcion": "876.123 Dptos",
+            "urlImagen": "https://www.nupciasmagazine.com/wp-content/uploads/2019/11/departamenots.jpg"
+        },
+        {
+            "id": 3,
+            "titulo": "Casaquintas",
+            "descripcion": "128.765 Casaquintas",
+            "urlImagen": "https://i.planetacolombia.com/images/2020/0916/1249472-casaquinta-la-rivera-disponible-en-el-carmen-20200916153050524.jpg"
+        },
+        {
+            "id": 4,
+            "titulo": "Vivienda Familiar",
+            "descripcion": "964.012 Viviendas",
+            "urlImagen": "https://images.unsplash.com/photo-1584738766473-61c083514bf4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        }
+    ]

@@ -1,0 +1,49 @@
+.footerContainer{
+    width: 100%;
+    height: 58px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 14px;
+    color: #fff;
+    background: #194D98;
+    /* position: fixed;
+    bottom: 0; */
+}
+
+.footerBrand{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 10px;
+    font-size: 20px;
+    line-height: 1.8;
+}
+
+.footerSocialMedia{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.isologotipo{
+    display: none;
+}
+
+@media only screen and (min-width: 768px) {
+    .footerSocialMedia{
+        gap: 30px;
+        padding-right: 20px;
+    }
+
+    .isologotipo{
+        display: block;
+        width: auto;
+        height: 48px;
+    }
+}
+
