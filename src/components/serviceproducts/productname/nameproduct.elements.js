@@ -23,14 +23,18 @@ export const Box = styled.div`
     top: 0px;
     bottom: 62.26px;
     background: #545776;
-    margin-top: -311px;
+    margin-top: -169px;
     
-    @media only screen and (min-width: 426px) {
-        width: 350px;
+    @media only screen and (min-width: 425px) {
+        width: 768px;
+        margin-top: -470px;
     }
 
-    @media only screen and (min-width: 670px) {
-        width: 325px;
+    @media only screen and (min-width: 1024px) {
+        /* font-size: 36px; */
+        width: 2560px;
+        height: 60px;
+        margin-top: -3347px;
     }
 `
 
